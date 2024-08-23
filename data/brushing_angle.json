@@ -1,0 +1,206 @@
+[
+  {
+    "type": "Angle",
+    "timestamp": 500,
+    "angle": 90,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 1000,
+    "angle": 93,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 1500,
+    "angle": 97,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 2000,
+    "angle": 105,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 2500,
+    "angle": 110,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 3000,
+    "angle": 115,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 3500,
+    "angle": 115,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 4000,
+    "angle": 116,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 4500,
+    "angle": 113,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 5000,
+    "angle": 109,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 5500,
+    "angle": 100,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 6000,
+    "angle": 95,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 6500,
+    "angle": 94,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 7000,
+    "angle": 95,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 7500,
+    "angle": 96,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 8000,
+    "angle": 85,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 8500,
+    "angle": 75,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 9000,
+    "angle": 65,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 9500,
+    "angle": 58,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 10000,
+    "angle": 57,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 10500,
+    "angle": 56,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 11000,
+    "angle": 64,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 11500,
+    "angle": 75,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 12000,
+    "angle": 80,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 12500,
+    "angle": 85,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 13000,
+    "angle": 89,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 13500,
+    "angle": 90,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 14000,
+    "angle": 89,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Angle",
+    "timestamp": 14500,
+    "angle": 91,
+    "flag": "bottom",
+    "priority": 2
+  }
+]
+  

@@ -1,0 +1,372 @@
+[
+  {
+    "type": "Coverage",
+    "timestamp": 500,
+    "currX": 0.2,
+    "currY": 66.3,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 1000,
+    "currX": 10.5,
+    "currY": 60.3,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 1500,
+    "currX": 15.7,
+    "currY": 45.3,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 2000,
+    "currX": 23.8,
+    "currY": 33.2,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 2500,
+    "currX": 37.2,
+    "currY": 20.5,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 3000,
+    "currX": 44.8,
+    "currY": 13.9,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 3500,
+    "currX": 28.1,
+    "currY": 5.5,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 4000,
+    "currX": 19.9,
+    "currY": -0.5,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 4500,
+    "currX": 9.5,
+    "currY": -2.3,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 5000,
+    "currX": 0.9,
+    "currY": -10.2,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 5500,
+    "currX": -10.9,
+    "currY": -18.5,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 6000,
+    "currX": -19.3,
+    "currY": -26.5,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 6500,
+    "currX": -37.9,
+    "currY": -34.9,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 7000,
+    "currX": -19.9,
+    "currY": -35.5,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 7500,
+    "currX": -9.6,
+    "currY": -31.3,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 8000,
+    "currX": 0.3,
+    "currY": -29.5,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 8500,
+    "currX": 5.9,
+    "currY": -24.7,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 9000,
+    "currX": 9.6,
+    "currY": -13.5,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 9500,
+    "currX": 17.9,
+    "currY": -12.8,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 10000,
+    "currX": 21.3,
+    "currY": -11.3,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 10500,
+    "currX": 23.4,
+    "currY": -10.2,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 11000,
+    "currX": 25.7,
+    "currY": -9.2,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 11500,
+    "currX": 26.9,
+    "currY": -8.5,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 12000,
+    "currX": 28.6,
+    "currY": -6.3,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Coverage",
+    "timestamp": 12500,
+    "currX": 33.4,
+    "currY": -5.8,
+    "flag": "bottom",
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 500,
+    "flag": "good",
+    "pressure": 33.3,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 1000,
+    "flag": "good",
+    "pressure": 37.3,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 1500,
+    "flag": "good",
+    "pressure": 42.1,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 2000,
+    "flag": "good",
+    "pressure": 45.3,
+    "priority": 2
+  }
+  ,
+  {
+    "type": "Pressure",
+    "timestamp": 2500,
+    "flag": "good",
+    "pressure": 55.3,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 3000,
+    "flag": "too hard",
+    "pressure": 65.3,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 3500,
+    "flag": "too hard",
+    "pressure": 70.2,
+    "priority": 1
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 4000,
+    "flag": "too hard",
+    "pressure": 75.2,
+    "priority": 1
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 4500,
+    "flag": "too hard",
+    "pressure": 64.2,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 5000,
+    "flag": "too hard",
+    "pressure": 56.3,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 5500,
+    "flag": "too hard",
+    "pressure": 58.2,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 6000,
+    "flag": "too hard",
+    "pressure": 63.5,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 6500,
+    "flag": "good",
+    "pressure": 75.2,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 7000,
+    "flag": "good",
+    "pressure": 89.2,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 7500,
+    "flag": "good",
+    "pressure": 80.2,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 8000,
+    "flag": "good",
+    "pressure": 69.2,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 9500,
+    "flag": "good",
+    "pressure": 55.2,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 10000,
+    "flag": "good",
+    "pressure": 45.2,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 10500,
+    "flag": "good",
+    "pressure": 47.2,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 11000,
+    "flag": "good",
+    "pressure": 44.2,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 11500,
+    "flag": "good",
+    "pressure": 43.4,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 12000,
+    "flag": "good",
+    "pressure": 45.2,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 12500,
+    "flag": "good",
+    "pressure": 41.2,
+    "priority": 2
+  },
+  {
+    "type": "Pressure",
+    "timestamp": 13000,
+    "flag": "good",
+    "pressure": 43.2,
+    "priority": 2
+  }
+]
+  
