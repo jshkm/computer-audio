@@ -1,3 +1,11 @@
+# Computer Audio Final Project
+This project was built in Java with [Processing](https://processing.org/) with library integration with [Beads](http://www.beadsproject.net/#:~:text=Beads%20is%20pure%20Java%2C%20meaning,it's%20got%20some%20cool%20features.) audio software library and [controlP5](https://www.sojamo.de/libraries/controlP5/) gui library.
+
+Here is the final paper after testing with this project:
+
+[Computer Audio Research Paper](https://github.com/user-attachments/files/16731508/Computer.Audio.Research.Paper.pdf)
+
+## About:
 My final project focuses on sonifying data to help improve brushing your teeth. The user is tested throught 3 scenarios.
 
 Scenario 1 (Pressure and Coverage): The data is sonified, so that when the pressure of brushing becomes too hard, the 
